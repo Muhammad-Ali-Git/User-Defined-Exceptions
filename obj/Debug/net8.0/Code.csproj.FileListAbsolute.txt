@@ -1,0 +1,14 @@
+/home/pi/Downloads/Code/bin/Debug/net8.0/Code
+/home/pi/Downloads/Code/bin/Debug/net8.0/Code.deps.json
+/home/pi/Downloads/Code/bin/Debug/net8.0/Code.runtimeconfig.json
+/home/pi/Downloads/Code/bin/Debug/net8.0/Code.dll
+/home/pi/Downloads/Code/bin/Debug/net8.0/Code.pdb
+/home/pi/Downloads/Code/obj/Debug/net8.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Downloads/Code/obj/Debug/net8.0/Code.AssemblyInfoInputs.cache
+/home/pi/Downloads/Code/obj/Debug/net8.0/Code.AssemblyInfo.cs
+/home/pi/Downloads/Code/obj/Debug/net8.0/Code.csproj.CoreCompileInputs.cache
+/home/pi/Downloads/Code/obj/Debug/net8.0/Code.dll
+/home/pi/Downloads/Code/obj/Debug/net8.0/refint/Code.dll
+/home/pi/Downloads/Code/obj/Debug/net8.0/Code.pdb
+/home/pi/Downloads/Code/obj/Debug/net8.0/Code.genruntimeconfig.cache
+/home/pi/Downloads/Code/obj/Debug/net8.0/ref/Code.dll
